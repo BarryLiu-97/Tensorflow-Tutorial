@@ -6,7 +6,6 @@
 tf.constant(value, dtype, shape) |  
  ------------------------------- | 
  
- name | age
----- | ---
-LearnShare | 12
-Mike |  32
+ tf.constant(value, dtype, shape) | 
+---- |
+
