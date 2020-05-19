@@ -5,5 +5,5 @@
 - tf.constant()函数：创建张量  
 |tf.constant(value, dtype, shape)|  
 |--------------------------------|
-    | tf.constant(value, dtype, shape)| 
-    | --------------------------------| 
+|tf.constant(value, dtype, shape)| 
+|--------------------------------| 
