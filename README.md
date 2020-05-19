@@ -8,6 +8,6 @@
 | tf.constant(value, dtype, shape) | 
 | -------------------------------- |
 
- value:数字/Python列表/Numpy数组  
- dtype:元素的数据类型  
- shape:数据的形状  
+   value:数字/Python列表/Numpy数组  
+   dtype:元素的数据类型  
+   shape:数据的形状  
