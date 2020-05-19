@@ -1,4 +1,8 @@
 # Tensorflow-Tutorial
+## Tensorflow简介
+
+## 推荐教程
+[简单粗暴Tensorflow2](https://tf.wiki/zh_hans/mlstudyjam.html)
 ## 创建张量
 ### 创建Tensor对象
 张量由Tensor类实现，每个张量都是一个Tensor对象
