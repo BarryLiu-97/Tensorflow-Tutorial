@@ -12,6 +12,7 @@
     value:数字/Python列表/Numpy数组 < font face=“微软雅黑”>   
     dtype:元素的数据类型  可省略
     shape:数据的形状  可省略
-、、、 
-tf.constant([[1,2],[3,4]])   
-、、、   
+
+```
+tf.constant([[1,2],[3,4]]) 
+```
