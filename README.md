@@ -5,8 +5,8 @@
 
 - __tf.constant()函数：创建张量__
  
-　| tf.constant(value, dtype, shape) | 
-　| -------------------------------- |
+| tf.constant(value, dtype, shape) | 
+| -------------------------------- |
 
 
     value:数字/Python列表/Numpy数组 < font face=“微软雅黑”>   
