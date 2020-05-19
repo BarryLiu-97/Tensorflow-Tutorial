@@ -6,6 +6,6 @@
 tf.constant(value, dtype, shape) |  
  ------------------------------- | 
  
- tf.constant(value, dtype, shape) | 
----- |
+tf.constant(value, dtype, shape) | 
+--------------------------------- |
 
