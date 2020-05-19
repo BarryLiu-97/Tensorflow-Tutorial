@@ -5,3 +5,8 @@
 - __tf.constant()函数：创建张量__           
 tf.constant(value, dtype, shape) |  
  ------------------------------- | 
+ 
+ name | age
+---- | ---
+LearnShare | 12
+Mike |  32
